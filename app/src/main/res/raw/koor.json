@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Würzburg Hbf",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Barbarossaplatz",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "McDonald's",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Marktplatz",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Oberer Markt",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Rathaus",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Alte Mainbrücke",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Sternplatz",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Residenzplatz",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Siebold Gymnasium",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Riemenschneider Gymnasium",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "CinemaxX",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Röntgen Gymnasium",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "St. Ursula Schule",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  },
+  {
+    "name": "Grünewald Gymnasium",
+    "koordinates": [
+      {
+        "lat": "49.801476",
+        "long": "9.935772"
+      }
+    ]
+  }
+]

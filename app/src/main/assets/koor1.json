@@ -1,0 +1,79 @@
+{
+  "1":[
+    {
+      "name": "Würzburg Hbf",
+      "lat": "49.801476",
+      "long": "9.935772"
+    },
+    {
+      "name": "Barbarossaplatz",
+      "lat": "49.797584",
+      "long": "9.933511"
+    },
+    {
+      "name": "McDonald's",
+      "lat": "49.794729",
+      "long": "9.931083"
+    },
+    {
+      "name": "Marktplatz",
+      "lat": "49.794421",
+      "long": "9.929295"
+    },
+    {
+      "name": "Oberer Markt",
+      "lat": "49.794793",
+      "long": "9.930434"
+    },
+    {
+      "name": "Rathaus",
+      "lat": "49.793278",
+      "long": "9.928388"
+    },
+    {
+      "name": "Alte Mainbrücke",
+      "lat": "49.793012",
+      "long": "9.926044"
+    },
+    {
+      "name": "Sternplatz",
+      "lat": "49.793174",
+      "long": "9.929868"
+    },
+    {
+      "name": "Residenzplatz",
+      "lat": "49.793084",
+      "long": "9.937402"
+    },
+    {
+      "name": "Siebold Gymnasium",
+      "lat": "49.796358",
+      "long": "9.942728"
+    },
+    {
+      "name": "Riemenschneider Gymnasium",
+      "lat": "49.796909",
+      "long": "9.942336"
+    },
+    {
+      "name": "CinemaxX",
+      "lat": "49.802201",
+      "long": "9.921549"
+    },
+    {
+      "name": "Röntgen Gymnasium",
+      "lat": "49.786944",
+      "long": "9.932618"
+    },
+    {
+      "name": "St. Ursula Schule",
+      "lat": "49.790675",
+      "long": "9.929600"
+    },
+    {
+      "name": "Grünewald Gymnasium",
+      "lat": "49.787340",
+      "long": "9.953887"
+    }
+  ]
+}
